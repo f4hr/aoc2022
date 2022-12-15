@@ -1,6 +1,6 @@
 import run from 'aocrunner';
 
-import { getTestInput, log } from '../utils/index.js';
+import { getTestInput } from '../utils/index.js';
 
 const DAY = 5;
 const PART_1_EXPECTED = 'CMZ';
